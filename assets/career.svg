@@ -14,16 +14,16 @@
   <!-- node 1 -->
   <circle cx="200" cy="64" r="11" fill="#0d1117" stroke="#6b7a99" stroke-width="3"/>
   <g class="s" text-anchor="middle">
-    <text x="200" y="112" font-size="22" font-weight="700" fill="#e6edf3">App Room</text>
-    <text x="200" y="140" font-size="16" fill="#9aa7c0">Android Developer</text>
-    <text x="200" y="176" font-size="14" fill="#6b7a99">Employee of the Month, Oct 2022</text>
+    <text x="200" y="112" font-size="22" font-weight="700" fill="#e6edf3">Exogic Softwares</text>
+    <text x="200" y="140" font-size="16" fill="#9aa7c0">intern Android Developer</text>
+    <text x="200" y="176" font-size="14" fill="#6b7a99">Rising star ⭐, Oct 2020</text>
   </g>
 
   <!-- node 2 -->
   <circle cx="600" cy="64" r="11" fill="#0d1117" stroke="#4C8DF6" stroke-width="3"/>
   <g class="s" text-anchor="middle">
-    <text x="600" y="112" font-size="22" font-weight="700" fill="#e6edf3">The Smart Coders</text>
-    <text x="600" y="140" font-size="16" fill="#9aa7c0">Senior Android Developer</text>
+    <text x="600" y="112" font-size="22" font-weight="700" fill="#e6edf3">App Rooms</text>
+    <text x="600" y="140" font-size="16" fill="#9aa7c0">Android Developer</text>
   </g>
 
   <!-- node 3 -->
