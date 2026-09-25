@@ -2,7 +2,7 @@
 
 <img src="./assets/header.svg" alt="Usama Ashfaq, Team Lead Android Development" width="100%"/>
 
-<a href="https://github.com/usama-cmd/usama-cmd">
+<a href="https://github.com/usama-cmd/Usama-Ashfaq">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=3DDC84&center=true&vCenter=true&width=640&lines=Building+scalable+Android+apps;Kotlin+%7C+Java+%7C+Jetpack+Compose;Leading+teams%2C+shipping+quality+code" alt="Typing animation"/>
 </a>
 
