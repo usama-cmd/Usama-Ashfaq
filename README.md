@@ -23,7 +23,7 @@
 I'm an Android engineer who enjoys turning ideas into fast, polished, maintainable apps. I currently lead the Android team at **Technest.pk**, where I mix hands-on development with mentoring, code reviews, and architecture decisions.
 
 ```kotlin
-object IzharMalik : Developer {
+object Usama Ashfaq : Developer {
     override val role      = "Team Lead, Android Development @ Technest.pk"
     override val languages = listOf("Kotlin", "Java")
     override val ui        = "Jetpack Compose"
