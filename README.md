@@ -89,7 +89,9 @@ object IzharMalik : Developer {
 <div align="center">
 
 <!--PROJECTS:START-->
-<img src="./assets/projects/placeholder.svg" width="49%" alt="Projects"/>
+<a href="https://github.com/usama-cmd/Usama-Ashfaq"><img src="./assets/projects/Usama-Ashfaq.svg" width="49%" alt="Usama-Ashfaq"/></a>
+<a href="https://github.com/usama-cmd/Project1-"><img src="./assets/projects/Project1-.svg" width="49%" alt="Project1-"/></a>
+<a href="https://github.com/usama-cmd/Usama-Ashfaq-"><img src="./assets/projects/Usama-Ashfaq-.svg" width="49%" alt="Usama-Ashfaq-"/></a>
 <!--PROJECTS:END-->
 
 </div>
