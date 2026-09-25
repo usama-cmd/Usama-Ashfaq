@@ -41,7 +41,7 @@
     </g>
     <text x="140" y="84" class="sans" font-size="18" fill="#3DDC84" font-weight="600" letter-spacing="1">Hi, I'm</text>
 
-    <text x="58" y="172" class="sans" font-size="72" font-weight="800" fill="url(#name)" letter-spacing="-1">Izhar Malik</text>
+    <text x="58" y="172" class="sans" font-size="72" font-weight="800" fill="url(#name)" letter-spacing="-1">Usama Ashfaq</text>
     <text x="60" y="214" class="sans" font-size="23" fill="#c9d1d9">Team Lead, Android Development at Technest.pk</text>
 
     <g class="sans" font-size="15" font-weight="600" text-anchor="middle">
