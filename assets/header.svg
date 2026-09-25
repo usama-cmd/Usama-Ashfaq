@@ -42,7 +42,7 @@
     <text x="140" y="84" class="sans" font-size="18" fill="#3DDC84" font-weight="600" letter-spacing="1">Hi, I'm</text>
 
     <text x="58" y="172" class="sans" font-size="72" font-weight="800" fill="url(#name)" letter-spacing="-1">Usama Ashfaq</text>
-    <text x="60" y="214" class="sans" font-size="23" fill="#c9d1d9">Team Lead, Android Development at Technest.pk</text>
+    <text x="60" y="214" class="sans" font-size="23" fill="#c9d1d9">Senior, Android Developer at Technest.pk</text>
 
     <g class="sans" font-size="15" font-weight="600" text-anchor="middle">
       <rect x="60"  y="242" width="92"  height="34" rx="17" fill="#7F52FF" fill-opacity=".18" stroke="#7F52FF"/><text x="106" y="264" fill="#c4b0ff">Kotlin</text>
