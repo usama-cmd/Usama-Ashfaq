@@ -58,8 +58,8 @@
 
     <g class="mono" font-size="15">
       <text class="l l1" x="716" y="108" fill="#e5c07b">@Composable</text>
-      <text class="l l2" x="716" y="132"><tspan fill="#c678dd">fun </tspan><tspan fill="#61afef">IzharMalik</tspan><tspan fill="#abb2bf">() = Developer(</tspan></text>
-      <text class="l l3" x="740" y="156"><tspan fill="#abb2bf">role = </tspan><tspan fill="#98c379">"Team Lead, Android"</tspan><tspan fill="#abb2bf">,</tspan></text>
+      <text class="l l2" x="716" y="132"><tspan fill="#c678dd">fun </tspan><tspan fill="#61afef">Usama Ashfaq</tspan><tspan fill="#abb2bf">() = Developer(</tspan></text>
+      <text class="l l3" x="740" y="156"><tspan fill="#abb2bf">role = </tspan><tspan fill="#98c379">"Senior, Android Developer"</tspan><tspan fill="#abb2bf">,</tspan></text>
       <text class="l l4" x="740" y="180"><tspan fill="#abb2bf">stack = listOf(</tspan><tspan fill="#98c379">"Kotlin"</tspan><tspan fill="#abb2bf">, </tspan><tspan fill="#98c379">"Compose"</tspan><tspan fill="#abb2bf">),</tspan></text>
       <text class="l l5" x="740" y="204"><tspan fill="#abb2bf">builds = </tspan><tspan fill="#98c379">"scalable apps"</tspan><tspan fill="#abb2bf">,</tspan></text>
       <text class="l l6" x="740" y="228"><tspan fill="#abb2bf">learning = </tspan><tspan fill="#d19a66">always</tspan></text>
