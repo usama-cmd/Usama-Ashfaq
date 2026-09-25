@@ -24,7 +24,7 @@ I'm an Android engineer who enjoys turning ideas into fast, polished, maintainab
 
 ```kotlin
 object Usama Ashfaq : Developer {
-    override val role      = "Team Lead, Android Development @ Technest.pk"
+    override val role      = "Senior, Android Developer @ Technest.pk"
     override val languages = listOf("Kotlin", "Java")
     override val ui        = "Jetpack Compose"
     override val focus     = listOf("Scalable apps", "Clean code", "Great UX")
