@@ -8,10 +8,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izharmalik923)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-ashfaq-85a5bb1bb/)
 [![Resume](https://img.shields.io/badge/Resume-3DDC84?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1A1T3vHyiW3OBz5CYg_eNn2RayQcLYyjx/view?usp=drivesdk)
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/izharmalik)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ZariMalikk)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://www.linkedin.com/in/usama-ashfaq-85a5bb1bb/)
 ![Profile views](https://komarev.com/ghpvc/?username=Izhamalik&label=Profile%20views&color=4C8DF6&style=for-the-badge)
 
 </div>
