@@ -9,7 +9,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-ashfaq-85a5bb1bb/)
-[![Resume](https://img.shields.io/badge/Resume-3DDC84?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1A1T3vHyiW3OBz5CYg_eNn2RayQcLYyjx/view?usp=drivesdk)
+[![Resume](https://img.shields.io/badge/Resume-3DDC84?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/u/0/home)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://www.linkedin.com/in/usama-ashfaq-85a5bb1bb/)
 ![Profile views](https://komarev.com/ghpvc/?username=Izhamalik&label=Profile%20views&color=4C8DF6&style=for-the-badge)
 
@@ -120,9 +120,8 @@ I'm always happy to talk about Android, mobile architecture, mentoring, or new o
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izharmalik923)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ZariMalikk)
-[![Linktree](https://img.shields.io/badge/Linktree-All_links-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/izharmalik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-ashfaq-85a5bb1bb/)
+[![Linktree](https://img.shields.io/badge/Linktree-All_links-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://www.linkedin.com/in/usama-ashfaq-85a5bb1bb/)
 
 <img src="./assets/footer.svg" width="100%" alt="Let's build something amazing together"/>
 
