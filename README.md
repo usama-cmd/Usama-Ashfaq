@@ -9,7 +9,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-ashfaq-85a5bb1bb/)
-[![Resume](https://img.shields.io/badge/Resume-3DDC84?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/u/0/home)
+[![Resume](https://img.shields.io/badge/Resume-3DDC84?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Z3Fzc_m_HA1uSu4tzDgLVNcUNPU35NVv/view?usp=drive_link)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://www.linkedin.com/in/usama-ashfaq-85a5bb1bb/)
 ![Profile views](https://komarev.com/ghpvc/?username=Izhamalik&label=Profile%20views&color=4C8DF6&style=for-the-badge)
 
